@@ -1,5 +1,9 @@
 #include "Copter.h"
+/* 
+Comment by Rushil start here
 
+Comment by Rushil ends here 
+*/ 
 /*************************************************************
  *  Attitude Rate controllers and timing
  ****************************************************************/
